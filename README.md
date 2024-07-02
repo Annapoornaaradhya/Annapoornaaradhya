@@ -13,8 +13,6 @@ I'm a dedicated Computer Science Enthusiast with a profound fascination in this 
 * 🧠  I'm learning Artificial Intelligence and Machine Learning
 * 🤝  I'm open to collaborating on interesting projects
 
-[![Image of https://github.com/formidablae/my_github_profile_views_counter](https://github.com/formidablae/my_github_profile_views_counter/blob/master/svg/profile/badge.svg)](https://github.com/formidablae/my_github_profile_views_counter)
-
 
 ### Skills
 
