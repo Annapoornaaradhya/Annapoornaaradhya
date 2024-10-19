@@ -1,24 +1,22 @@
-## Hi there! 👋 I'm Annapoorna Aradhya
+# 🌟 Hey there! I'm Annapoorna Aradhya 🌟
 
-### 🌟 Student | Computer Science Enthusiast | Lifelong Learner 🌟  
----
-
-**🚀 Passionate about Exploring Technology and Building the Future!**  
-I'm a dedicated student with a love for all things tech, especially in the world of **Artificial Intelligence** and **Machine Learning**. I thrive on curiosity and constantly push myself to stay updated with the latest trends and innovations in the field.
+**Aspiring Tech Enthusiast | AI & ML Explorer | Lifelong Learner**  
+Welcome to my tech-filled corner of the internet! 🎉 I'm a 5th-semester Computer Science student who thrives on curiosity, loves building, and is always hungry to learn more. 🚀 
 
 ---
 
-### 💼 About Me:
-- 🌍 Based in: **India**
-- ✉️ Reach out to me at: [annapoornaaradhya@gmail.com](mailto:annapoornaaradhya@gmail.com)
-- 🧠 Currently diving deep into: **AI** & **ML**
-- 🤝 Open to collaborating on exciting and innovative projects
+### 🚀 A Glimpse Into My Tech World:
 
----
+- 🧠 **Currently diving deep into:** Machine Learning, Artificial Intelligence, and Cloud Computing.  
+- 💻 **Building:** AI-powered tools to solve real-world problems, web apps, and cool projects that make an impact.
+- 🎓 **Hackathon Geek:** Participated in Google Girl Hackathon, NASA Space Apps Challenge, and HacktoberFest 2024.
+- ✍️ **AI/ML Content Creator:** Intern at Earth5R (recognized by UNESCO).
+- 🎨 **Design Curious:** Dabble in UI/UX to create visually appealing apps (check out my Dribbble!).
 
-### 🌟 Skills & Tools
 
-<p align="left">
+### ⚡️ Tech Stack That Powers My Creations:
+
+<p align="center">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
   </a>
@@ -59,10 +57,18 @@ I'm a dedicated student with a love for all things tech, especially in the world
 </p>
 
 ---
+### 🌟 Highlights & Adventures:
 
-### 🌐 Connect with Me:
+- **Google Cybersecurity Specialization:** Secured 🔒  
+- **AI Mini-Project:** Developing a mental health monitoring tool using NLP for real-time depression and anxiety analysis.
+- **Active in Communities:** Women Techmakers Member, Core NSS Volunteer, Campus Ambassador at Pravega.
+- **Latest Hackathon:** HacktoberFest 2024 @ Bangalore (still buzzing from it!)
 
-<p align="left">
+---
+
+### 🔗 Let's Connect and Collaborate!
+
+<p align="center">
   <a href="https://www.dev.to/annapoorna_v" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
   </a>
@@ -98,12 +104,17 @@ I'm a dedicated student with a love for all things tech, especially in the world
   </a>
 </p>
 
+
 ---
 
-### 🏆 GitHub Stats:
+### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <a href="http://www.github.com/Annapoornaaradhya">
-    <img src="https://github-readme-stats.vercel.app/api?username=Annapoornaaradhya&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=a855f7&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="Annapoorna's GitHub stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Annapoornaaradhya&show_icons=true&hide=&count_private=true&title_color=ff69b4&text_color=9f7aea&icon_color=ff69b4&bg_color=1a1b27&hide_border=true" alt="Annapoorna's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Annapoornaaradhya&stroke=9f7aea&background=1a1b27&ring=ff69b4&fire=ff69b4&currStreakNum=9f7aea&currStreakLabel=ff69b4&sideNums=9f7aea&sideLabels=ff69b4&dates=9f7aea&hide_border=true" alt="Annapoorna's GitHub Streak" />
 </p>
+
+
+### 🌟 Fun Fact:
+ When I'm not coding, you can find me active on LinkedIn, exploring space tech, or binge-watching sci-fi shows. <br/> I'm all about **balancing tech with creativity!** ✨ 
+
