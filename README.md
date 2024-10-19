@@ -125,8 +125,18 @@ Welcome to my tech-filled corner of the internet! 🎉 I'm a 3rd year Computer S
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Annapoornaaradhya&show_icons=true&hide=&count_private=true&title_color=ff69b4&text_color=9f7aea&icon_color=ff69b4&bg_color=1a1b27&hide_border=true" alt="Annapoorna's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Annapoornaaradhya&stroke=9f7aea&background=1a1b27&ring=ff69b4&fire=ff69b4&currStreakNum=9f7aea&currStreakLabel=ff69b4&sideNums=9f7aea&sideLabels=ff69b4&dates=9f7aea&hide_border=true" alt="Annapoorna's GitHub Streak" />
+  <a>
+    <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Annapoornaaradhya&stroke=9f7aea&background=1a1b27&ring=ff69b4&fire=ff69b4&currStreakNum=9f7aea&currStreakLabel=ff69b4&sideNums=9f7aea&sideLabels=ff69b4&dates=9f7aea&hide_border=true" alt="Annapoorna's GitHub Streak" />
+   <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png">      
+  </a>
+ <div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Annapoornaaradhya&theme=monokai" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Annapoornaaradhya&theme=monokai"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Annapoornaaradhya&theme=monokai"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Annapoornaaradhya&theme=monokai"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Annapoornaaradhya&theme=monokai" />
+</div>
 </p>
 
 <br />
