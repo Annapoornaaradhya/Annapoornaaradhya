@@ -1,7 +1,8 @@
 # 🌟 Hey there! I'm Annapoorna Aradhya 🌟
 
 **Aspiring Tech Enthusiast | AI & ML Explorer | Lifelong Learner**  
-Welcome to my tech-filled corner of the internet! 🎉 I'm a 5th-semester Computer Science student who thrives on curiosity, loves building, and is always hungry to learn more. 🚀 
+
+Welcome to my tech-filled corner of the internet! 🎉 I'm a 3rd year Computer Science student who thrives on curiosity, loves building, and is always hungry to learn more. 🚀 
 
 ---
 
@@ -11,8 +12,7 @@ Welcome to my tech-filled corner of the internet! 🎉 I'm a 5th-semester Comput
 - 💻 **Building:** AI-powered tools to solve real-world problems, web apps, and cool projects that make an impact.
 - 🎓 **Hackathon Geek:** Participated in Google Girl Hackathon, NASA Space Apps Challenge, and HacktoberFest 2024.
 - ✍️ **AI/ML Content Creator:** Intern at Earth5R (recognized by UNESCO).
-- 🎨 **Design Curious:** Dabble in UI/UX to create visually appealing apps (check out my Dribbble!).
-
+- 🌍 Member of **Women Techmakers**
 
 ### ⚡️ Tech Stack That Powers My Creations:
 
@@ -117,4 +117,6 @@ Welcome to my tech-filled corner of the internet! 🎉 I'm a 5th-semester Comput
 
 ### 🌟 Fun Fact:
  When I'm not coding, you can find me active on LinkedIn, exploring space tech, or binge-watching sci-fi shows. <br/> I'm all about **balancing tech with creativity!** ✨ 
+
+ _"Keep pushing the limits of technology, and never stop learning."_ 💡
 
