@@ -124,6 +124,8 @@ Welcome to my tech-filled corner of the internet! 🎉 I'm a 3rd year Computer S
 
 ### 📊 GitHub Stats & Activity
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Annapoornaaradhya&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="Annapoornaaradhya" />
+
 <p align="center">
   <a>
     <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
