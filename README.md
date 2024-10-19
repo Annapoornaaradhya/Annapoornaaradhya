@@ -4,7 +4,10 @@
 
 Welcome to my tech-filled corner of the internet! 🎉 I'm a 3rd year Computer Science student who thrives on curiosity, loves building, and is always hungry to learn more. 🚀 
 
----
+<br />
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 
 ### 🚀 A Glimpse Into My Tech World:
 
@@ -13,6 +16,11 @@ Welcome to my tech-filled corner of the internet! 🎉 I'm a 3rd year Computer S
 - 🎓 **Hackathon Geek:** Participated in Google Girl Hackathon, NASA Space Apps Challenge, and HacktoberFest 2024.
 - ✍️ **AI/ML Content Creator:** Intern at Earth5R (recognized by UNESCO).
 - 🌍 Member of **Women Techmakers**
+
+<br />
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 
 ### ⚡️ Tech Stack That Powers My Creations:
 
@@ -56,7 +64,10 @@ Welcome to my tech-filled corner of the internet! 🎉 I'm a 3rd year Computer S
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="50" height="50"/>
 </p>
 
----
+<br />
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 ### 🌟 Highlights & Adventures:
 
 - **Google Cybersecurity Specialization:** Secured 🔒  
@@ -64,7 +75,10 @@ Welcome to my tech-filled corner of the internet! 🎉 I'm a 3rd year Computer S
 - **Active in Communities:** Women Techmakers Member, Core NSS Volunteer, Campus Ambassador at Pravega.
 - **Latest Hackathon:** HacktoberFest 2024 @ Bangalore (still buzzing from it!)
 
----
+<br />
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 
 ### 🔗 Let's Connect and Collaborate!
 
@@ -104,8 +118,9 @@ Welcome to my tech-filled corner of the internet! 🎉 I'm a 3rd year Computer S
   </a>
 </p>
 
-
----
+<br />
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ### 📊 GitHub Stats & Activity
 
@@ -114,6 +129,9 @@ Welcome to my tech-filled corner of the internet! 🎉 I'm a 3rd year Computer S
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Annapoornaaradhya&stroke=9f7aea&background=1a1b27&ring=ff69b4&fire=ff69b4&currStreakNum=9f7aea&currStreakLabel=ff69b4&sideNums=9f7aea&sideLabels=ff69b4&dates=9f7aea&hide_border=true" alt="Annapoorna's GitHub Streak" />
 </p>
 
+<br />
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ### 🌟 Fun Fact:
  When I'm not coding, you can find me active on LinkedIn, exploring space tech, or binge-watching sci-fi shows. <br/> I'm all about **balancing tech with creativity!** ✨ 
