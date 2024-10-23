@@ -8,6 +8,7 @@ Welcome to my tech-filled corner of the internet! 🎉 I'm a 3rd year Computer S
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
+<img align="right" alt="coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 ### 🚀 A Glimpse Into My Tech World:
 
