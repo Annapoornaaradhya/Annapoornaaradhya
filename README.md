@@ -139,7 +139,10 @@ Welcome to my tech-filled corner of the internet! 🎉 I'm a 3rd year Computer S
 </div>
 
 ### Hacktoberfest(24) Badges 🪶
-[![An image of @annapoornaaradhya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/annapoornaaradhya)](https://holopin.io/@annapoornaaradhya)
+<!-- [![An image of @annapoornaaradhya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/annapoornaaradhya)](https://holopin.io/@annapoornaaradhya) -->
+
+![Screenshot 2024-10-25 125334](https://github.com/user-attachments/assets/68cc98ee-52b3-4446-b003-ce31efaf2244)
+
 
 ### 📊 GitHub Stats & Activity
 
