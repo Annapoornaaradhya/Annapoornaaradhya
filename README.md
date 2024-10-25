@@ -123,7 +123,10 @@ Welcome to my tech-filled corner of the internet! 🎉 I'm a 3rd year Computer S
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## OPEN-SOURCE
+## The Open Source Spark ✨🔥
+
+### Badges of Honor: Join the Code Movement! 🏅💻
+
 ### GSSOC(24) Badges 🪶
 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
@@ -141,8 +144,9 @@ Welcome to my tech-filled corner of the internet! 🎉 I'm a 3rd year Computer S
 ### Hacktoberfest(24) Badges 🪶
 <!-- [![An image of @annapoornaaradhya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/annapoornaaradhya)](https://holopin.io/@annapoornaaradhya) -->
 
-![Screenshot 2024-10-25 125334](https://github.com/user-attachments/assets/68cc98ee-52b3-4446-b003-ce31efaf2244)
-
+<div align="center">
+<img src="https://github.com/user-attachments/assets/68cc98ee-52b3-4446-b003-ce31efaf2244" alt="Screenshot" width="600"/>
+</div>
 
 ### 📊 GitHub Stats & Activity
 
