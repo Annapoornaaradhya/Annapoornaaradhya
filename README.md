@@ -15,7 +15,6 @@ Welcome to my tech-filled corner of the internet! 🎉 I'm a 3rd year Computer S
 - 🧠 **Currently diving deep into:** Machine Learning, Artificial Intelligence, and Cloud Computing.  
 - 💻 **Building:** AI-powered tools to solve real-world problems, web apps, and cool projects that make an impact.
 - 🎓 **Hackathon Geek:** Participated in Google Girl Hackathon, NASA Space Apps Challenge, and HacktoberFest 2024.
-- ✍️ **AI/ML Content Creator:** Intern at Earth5R (recognized by UNESCO).
 - 🌍 Member of **Women Techmakers**
 
 <br />
@@ -69,12 +68,17 @@ Welcome to my tech-filled corner of the internet! 🎉 I'm a 3rd year Computer S
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
+<details>
+ <summary><b>🌟 Highlights & Adventures:</b></summary><br>
+  
 ### 🌟 Highlights & Adventures:
 
 - **Google Cybersecurity Specialization:** Secured 🔒  
 - **AI Mini-Project:** Developing a mental health monitoring tool using NLP for real-time depression and anxiety analysis.
 - **Active in Communities:** Women Techmakers Member, Core NSS Volunteer, Campus Ambassador at Pravega.
 - **Latest Hackathon:** HacktoberFest 2024 @ Bangalore (still buzzing from it!)
+-  ✍️ **AI/ML Content Creator:** Intern at Earth5R (recognized by UNESCO).
+</details>
 
 <br />
 <!--Line-->
@@ -123,10 +127,14 @@ Welcome to my tech-filled corner of the internet! 🎉 I'm a 3rd year Computer S
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
+  
 ## The Open Source Spark ✨🔥
 
 ### Badges of Honor: Join the Code Movement! 🏅💻
 
+<details>
+ <summary><b> GSSOC(24) Badges 🪶 & Hacktoberfest(24) Badges 🪶</b></summary><br>
+  
 ### GSSOC(24) Badges 🪶
 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
@@ -147,6 +155,11 @@ Welcome to my tech-filled corner of the internet! 🎉 I'm a 3rd year Computer S
 <div align="center">
 <img src="https://github.com/user-attachments/assets/68cc98ee-52b3-4446-b003-ce31efaf2244" alt="Screenshot" width="600"/>
 </div>
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<br/>
+</details>
+  
 
 ### 📊 GitHub Stats & Activity
 
