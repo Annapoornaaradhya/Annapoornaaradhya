@@ -172,17 +172,22 @@ Welcome to my tech-filled corner of the internet! 🎉 I'm a 3rd year Computer S
   </a>
  <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Annapoornaaradhya&theme=monokai" />
+ </div>
+ <div>
+   <details>
+ <summary><b>More Stats & Activity📊</b></summary><br>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Annapoornaaradhya&theme=monokai"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Annapoornaaradhya&theme=monokai"  />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Annapoornaaradhya&theme=monokai"  />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Annapoornaaradhya&theme=monokai" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Annapoornaaradhya&bg_color=000000&color=DA80EB&line=EB1484&point=C29AEB&area=true&hide_border=true" alt="Annapoornaaradhya" />
+<br />
 </div>
 </p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Annapoornaaradhya&bg_color=000000&color=DA80EB&line=EB1484&point=C29AEB&area=true&hide_border=true" alt="Annapoornaaradhya" />
-
-<br />
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</details>
 
 ### 🌟 Fun Fact:
  When I'm not coding, you can find me active on LinkedIn, exploring space tech, or binge-watching sci-fi shows. <br/> I'm all about **balancing tech with creativity!** ✨ 
