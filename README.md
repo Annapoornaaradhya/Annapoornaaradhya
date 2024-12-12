@@ -4,7 +4,6 @@
 
 Welcome to my tech-filled corner of the internet! 🎉 I'm a 3rd year Computer Science student who thrives on curiosity, loves building, and is always hungry to learn more. 🚀 
 
-![](https://komarev.com/ghpvc/?username=Annapoornaaradhya&color=f7027c&base=500)
 <br />
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -198,3 +197,4 @@ Welcome to my tech-filled corner of the internet! 🎉 I'm a 3rd year Computer S
 
  _"Keep pushing the limits of technology, and never stop learning."_ 💡
 
+![](https://komarev.com/ghpvc/?username=Annapoornaaradhya&color=f7027c&base=500)
