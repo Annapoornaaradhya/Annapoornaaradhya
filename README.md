@@ -197,4 +197,7 @@ Welcome to my tech-filled corner of the internet! 🎉 I'm a 3rd year Computer S
 
  _"Keep pushing the limits of technology, and never stop learning."_ 💡
 
+ <img src="https://raw.githubusercontent.com/Annapoornaaradhya/Annapoornaaradhya/output/snake.svg" alt="Snake animation" />
+
+
 ![](https://komarev.com/ghpvc/?username=Annapoornaaradhya&color=f7027c&base=500)
