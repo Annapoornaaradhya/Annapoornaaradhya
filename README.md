@@ -74,7 +74,6 @@ Welcome to my tech-filled corner of the internet! 🎉 I'm a 3rd year Computer S
 ### 🌟 Highlights & Adventures:
 
 - **Google Cybersecurity Specialization:** Secured 🔒  
-- **AI Mini-Project:** Developing a mental health monitoring tool using NLP for real-time depression and anxiety analysis.
 - **Active in Communities:** Women Techmakers Member, Core NSS Volunteer, Campus Ambassador at Pravega.
 - **Latest Hackathon:** HacktoberFest 2024 @ Bangalore (still buzzing from it!)
 -  ✍️ **AI/ML Content Creator:** Intern at Earth5R (recognized by UNESCO).
