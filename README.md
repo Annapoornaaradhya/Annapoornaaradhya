@@ -68,6 +68,14 @@ Welcome to my tech-filled corner of the internet! 🎉 I'm a 3rd year Computer S
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
+### 💻 Projects 
+**[Whispers of Motherhood 🤱💙](https://github.com/Annapoornaaradhya/Whispers_of_Motherhood)** - Empowering Mothers, Understanding Emotions:AI for Postpartum Healing <br/>
+**[PlatePromise 🍽️](https://github.com/Annapoornaaradhya/PlatePromise)** - Every Extra Bite Counts Towards a Better Tomorrow <br/>
+**[JSS CONNECT 🫱🏻‍🫲🏻😎](https://github.com/Annapoornaaradhya/JSS_CONNECT)** - 🌟 Connect, Learn, Succeed! 🎓💼 <br/>
+<br/>
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 <details>
  <summary><b>🌟 Highlights & Adventures:</b></summary><br>
   
@@ -75,8 +83,10 @@ Welcome to my tech-filled corner of the internet! 🎉 I'm a 3rd year Computer S
 
 - **Google Cybersecurity Specialization:** Secured 🔒  
 - **Active in Communities:** Women Techmakers Member, Core NSS Volunteer, Campus Ambassador at Pravega.
-- **Latest Hackathon:** iAccelerate Women's Hackathon @ Bangalore (still buzzing from it!)
--  ✍️ **AI/ML Content Creator:** Intern at Earth5R (recognized by UNESCO).
+- **Latest Hackathon:** iAccelerate Women's Hackathon 2025 @ Bangalore (still buzzing from it!)
+- ✍️ **AI/ML Content Creator:** Intern at Earth5R (recognized by UNESCO).
+- 🔥 Hacktoberfest 2024 - 4 PRs merged  
+- 🥇 GSSOC-EXT 24 - Rank 123, 8 Badges 
 </details>
 
 <br />
