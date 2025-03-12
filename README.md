@@ -14,7 +14,7 @@ Welcome to my tech-filled corner of the internet! 🎉 I'm a 3rd year Computer S
 
 - 🧠 **Currently diving deep into:** Machine Learning, Artificial Intelligence, and Cloud Computing.  
 - 💻 **Building:** AI-powered tools to solve real-world problems, web apps, and cool projects that make an impact.
-- 🎓 **Hackathon Geek:** Participated in Google Girl Hackathon, NASA Space Apps Challenge, and HacktoberFest 2024.
+- 🎓 **Hackathon Geek:** Participated in Google Girl Hackathon 24' & 25', NASA Space Apps Challenge, HacktoberFest 2024, and iAccelerate Women's Hackathon by Infosys.
 - 🌍 Member of **Women Techmakers**
 
 <br />
@@ -75,7 +75,7 @@ Welcome to my tech-filled corner of the internet! 🎉 I'm a 3rd year Computer S
 
 - **Google Cybersecurity Specialization:** Secured 🔒  
 - **Active in Communities:** Women Techmakers Member, Core NSS Volunteer, Campus Ambassador at Pravega.
-- **Latest Hackathon:** HacktoberFest 2024 @ Bangalore (still buzzing from it!)
+- **Latest Hackathon:** iAccelerate Women's Hackathon @ Bangalore (still buzzing from it!)
 -  ✍️ **AI/ML Content Creator:** Intern at Earth5R (recognized by UNESCO).
 </details>
 
