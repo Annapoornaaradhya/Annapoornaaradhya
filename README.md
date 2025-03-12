@@ -69,9 +69,9 @@ Welcome to my tech-filled corner of the internet! 🎉 I'm a 3rd year Computer S
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ### 💻 Projects 
-**[Whispers of Motherhood 🤱💙](https://github.com/Annapoornaaradhya/Whispers_of_Motherhood)** - Empowering Mothers, Understanding Emotions:AI for Postpartum Healing <br/>
-**[PlatePromise 🍽️](https://github.com/Annapoornaaradhya/PlatePromise)** - Every Extra Bite Counts Towards a Better Tomorrow <br/>
-**[JSS CONNECT 🫱🏻‍🫲🏻😎](https://github.com/Annapoornaaradhya/JSS_CONNECT)** - 🌟 Connect, Learn, Succeed! 🎓💼 <br/>
+- **[Whispers of Motherhood 🤱💙](https://github.com/Annapoornaaradhya/Whispers_of_Motherhood)** - Empowering Mothers, Understanding Emotions:AI for Postpartum Healing <br/>
+- **[PlatePromise 🍽️](https://github.com/Annapoornaaradhya/PlatePromise)** - Every Extra Bite Counts Towards a Better Tomorrow <br/>
+- **[JSS CONNECT 🫱🏻‍🫲🏻😎](https://github.com/Annapoornaaradhya/JSS_CONNECT)** - 🌟 Connect, Learn, Succeed! 🎓💼 <br/>
 <br/>
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
