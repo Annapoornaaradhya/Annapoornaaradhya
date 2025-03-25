@@ -2,7 +2,7 @@
 
 **Aspiring Tech Enthusiast | AI & ML Explorer | Lifelong Learner**  
 
-Welcome to my tech-filled corner of the internet! 🎉 I'm a 3rd year Computer Science student who thrives on curiosity, loves building, and is always hungry to learn more. 🚀 
+Welcome to my tech-filled corner of the internet! 🎉 I'm a pre-final year Computer Science student who thrives on curiosity, loves building, and is always hungry to learn more. 🚀 
 
 <br />
 <!--Line-->
