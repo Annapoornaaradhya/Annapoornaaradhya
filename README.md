@@ -24,7 +24,7 @@ Welcome to my tech-filled corner of the internet! 🎉 I'm a pre-final year Comp
 
 ### ⚡️ Tech Stack That Powers My Creations:
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
   </a>
@@ -64,6 +64,13 @@ Welcome to my tech-filled corner of the internet! 🎉 I'm a pre-final year Comp
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="50" height="50"/>
 </p>
 
+[![My Skills](https://skillicons.dev/icons?i=c,py,java,html,css,js,aws,gcp,anaconda,figma,flask,git,latex,linux,matlab,mongodb,mysql,netlify,nodejs,opencv,ps,php,postman,react,regex,tensorflow,ubuntu,vercel,pytorch,vscode,wordpress,windows&perline=16)](https://github.com/Annapoornaaradhya) -->
+<p align="center"> 
+  <a href="https://github.com/Annapoornaaradhya">
+    <img src="https://skillicons.dev/icons?i=c,py,java,html,css,js,aws,gcp,anaconda,figma,flask,git,latex,linux,matlab,mongodb,mysql,netlify,nodejs,opencv,ps,php,postman,react,regex,tensorflow,ubuntu,vercel,pytorch,vscode,wordpress,windows&perline=16" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="50" height="50"/>
+  </a>
+</p>
 <br />
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
